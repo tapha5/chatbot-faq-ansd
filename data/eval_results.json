@@ -1,0 +1,167 @@
+{
+  "n_questions": 20,
+  "exact_match": 30.0,
+  "f1": 32.8,
+  "details": [
+    {
+      "question": "Quelle est la population totale du Sénégal selon le RGPH-5 ?",
+      "expected": "18 126 390 habitants",
+      "predicted": " 18 126 390 d’habitants.",
+      "em": 1,
+      "f1": 1.0,
+      "confidence": 0.683
+    },
+    {
+      "question": "Quel est le taux d'accroissement naturel (TAN) de la population du Sénégal ?",
+      "expected": "2,3%",
+      "predicted": " 2,3%",
+      "em": 1,
+      "f1": 1.0,
+      "confidence": 0.488
+    },
+    {
+      "question": "Quel est le taux d'accroissement intercensitaire du Sénégal ?",
+      "expected": "2,9%",
+      "predicted": " 2,94%.",
+      "em": 0,
+      "f1": 0.0,
+      "confidence": 0.984
+    },
+    {
+      "question": "Quelle densité de population est dépassée dans les régions de Dakar, Thiès et Diourbel ?",
+      "expected": "300 habitants au km²",
+      "predicted": " 300",
+      "em": 0,
+      "f1": 0.4,
+      "confidence": 0.481
+    },
+    {
+      "question": "Comment le rapport définit-il la population ?",
+      "expected": "l'ensemble des habitants d'un territoire",
+      "predicted": " l’effectif et la composition (structure) de cette population selon divers critères",
+      "em": 0,
+      "f1": 0.0,
+      "confidence": 0.148
+    },
+    {
+      "question": "Quel pourcentage des apprenants du secondaire sont des filles ?",
+      "expected": "53,1%",
+      "predicted": " 53,1%",
+      "em": 1,
+      "f1": 1.0,
+      "confidence": 0.995
+    },
+    {
+      "question": "Quel est le taux d'alphabétisation en français en milieu urbain ?",
+      "expected": "46,3%",
+      "predicted": " 25,1%",
+      "em": 0,
+      "f1": 0.0,
+      "confidence": 0.979
+    },
+    {
+      "question": "Quel pourcentage d'enfants en milieu urbain possèdent un bulletin de naissance ?",
+      "expected": "90,8%",
+      "predicted": " 66,7 %",
+      "em": 0,
+      "f1": 0.0,
+      "confidence": 0.958
+    },
+    {
+      "question": "Quel pourcentage d'enfants en milieu rural possèdent un bulletin de naissance ?",
+      "expected": "71,1%",
+      "predicted": " 66,7 %",
+      "em": 0,
+      "f1": 0.0,
+      "confidence": 0.951
+    },
+    {
+      "question": "Qu'est-ce que la formation professionnelle selon le rapport ?",
+      "expected": "un processus d'apprentissage qui permet à un individu d'acquérir le savoir et le savoir-faire",
+      "predicted": " Aucune",
+      "em": 0,
+      "f1": 0.0,
+      "confidence": 0.576
+    },
+    {
+      "question": "Quelle proportion totale des inactifs est concentrée à Dakar, Thiès et Diourbel ?",
+      "expected": "49,1%",
+      "predicted": " 51,8%",
+      "em": 0,
+      "f1": 0.0,
+      "confidence": 0.987
+    },
+    {
+      "question": "Quelle proportion des personnes inactives se trouve à Dakar ?",
+      "expected": "23,8%",
+      "predicted": " (47,8%).",
+      "em": 0,
+      "f1": 0.0,
+      "confidence": 0.529
+    },
+    {
+      "question": "Quelle proportion des personnes inactives se trouve à Thiès ?",
+      "expected": "14,1%",
+      "predicted": " (47,8%).",
+      "em": 0,
+      "f1": 0.0,
+      "confidence": 0.882
+    },
+    {
+      "question": "Quelle proportion des personnes inactives se trouve à Diourbel ?",
+      "expected": "11,2%",
+      "predicted": " (47,8%).",
+      "em": 0,
+      "f1": 0.0,
+      "confidence": 0.453
+    },
+    {
+      "question": "Quelle est la proportion de personnes inactives à Kédougou ?",
+      "expected": "1,0%",
+      "predicted": " (59,8%)",
+      "em": 0,
+      "f1": 0.0,
+      "confidence": 0.974
+    },
+    {
+      "question": "Quel est le niveau de fécondité des adolescentes célibataires de 15 à 19 ans ?",
+      "expected": "2,3‰",
+      "predicted": " 86,1‰",
+      "em": 0,
+      "f1": 0.0,
+      "confidence": 0.891
+    },
+    {
+      "question": "Quel est le taux de fécondité des adolescentes en union polygame ?",
+      "expected": "208,7‰",
+      "predicted": " (208,7‰),",
+      "em": 1,
+      "f1": 1.0,
+      "confidence": 0.928
+    },
+    {
+      "question": "Quel est le taux de fécondité des adolescentes en union monogame ?",
+      "expected": "204,9‰",
+      "predicted": " (204,9‰)",
+      "em": 1,
+      "f1": 1.0,
+      "confidence": 0.891
+    },
+    {
+      "question": "Quel est le taux de fécondité des adolescentes divorcées ?",
+      "expected": "114,0‰",
+      "predicted": " (114,0‰),",
+      "em": 1,
+      "f1": 1.0,
+      "confidence": 0.991
+    },
+    {
+      "question": "Que désigne la natalité selon le rapport ?",
+      "expected": "la fréquence des naissances vivantes au sein de la population totale au cours d'une année",
+      "predicted": " Structure d’une population",
+      "em": 0,
+      "f1": 0.167,
+      "confidence": 0.354
+    }
+  ]
+}

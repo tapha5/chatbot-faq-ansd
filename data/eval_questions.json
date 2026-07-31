@@ -1,0 +1,25 @@
+[
+  {"question": "Quelle est la population totale du Sénégal selon le RGPH-5 ?", "answer": "18 126 390 habitants"},
+  {"question": "Quel est le taux d'accroissement naturel (TAN) de la population du Sénégal ?", "answer": "2,3%"},
+  {"question": "Quel est le taux d'accroissement intercensitaire du Sénégal ?", "answer": "2,9%"},
+  {"question": "Quelle densité de population est dépassée dans les régions de Dakar, Thiès et Diourbel ?", "answer": "300 habitants au km²"},
+  {"question": "Comment le rapport définit-il la population ?", "answer": "l'ensemble des habitants d'un territoire"},
+
+  {"question": "Quel pourcentage des apprenants du secondaire sont des filles ?", "answer": "53,1%"},
+  {"question": "Quel est le taux d'alphabétisation en français en milieu urbain ?", "answer": "46,3%"},
+  {"question": "Quel pourcentage d'enfants en milieu urbain possèdent un bulletin de naissance ?", "answer": "90,8%"},
+  {"question": "Quel pourcentage d'enfants en milieu rural possèdent un bulletin de naissance ?", "answer": "71,1%"},
+  {"question": "Qu'est-ce que la formation professionnelle selon le rapport ?", "answer": "un processus d'apprentissage qui permet à un individu d'acquérir le savoir et le savoir-faire"},
+
+  {"question": "Quelle proportion totale des inactifs est concentrée à Dakar, Thiès et Diourbel ?", "answer": "49,1%"},
+  {"question": "Quelle proportion des personnes inactives se trouve à Dakar ?", "answer": "23,8%"},
+  {"question": "Quelle proportion des personnes inactives se trouve à Thiès ?", "answer": "14,1%"},
+  {"question": "Quelle proportion des personnes inactives se trouve à Diourbel ?", "answer": "11,2%"},
+  {"question": "Quelle est la proportion de personnes inactives à Kédougou ?", "answer": "1,0%"},
+
+  {"question": "Quel est le niveau de fécondité des adolescentes célibataires de 15 à 19 ans ?", "answer": "2,3‰"},
+  {"question": "Quel est le taux de fécondité des adolescentes en union polygame ?", "answer": "208,7‰"},
+  {"question": "Quel est le taux de fécondité des adolescentes en union monogame ?", "answer": "204,9‰"},
+  {"question": "Quel est le taux de fécondité des adolescentes divorcées ?", "answer": "114,0‰"},
+  {"question": "Que désigne la natalité selon le rapport ?", "answer": "la fréquence des naissances vivantes au sein de la population totale au cours d'une année"}
+]
